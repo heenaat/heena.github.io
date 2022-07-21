@@ -7,7 +7,9 @@ I have an undergraduate degree in Ayurvedic Medicine and Surgery from Maharashtr
 As I have completed my BAMS from Maharashtra the curriculum also include the detailed understanding of clinical medicine, biochemical and pathological investigations and surgical procedures including emergency management.
 
 **Freelance Consultant**
+
 **Ayurvedic Physician**
+
 **Philomath**
 
 ---
