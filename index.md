@@ -11,7 +11,7 @@ As I have completed my BAMS from Maharashtra the curriculum also include the det
 
 ---
 
-<img src="images/uni.jpg?raw=true" align="middle" width="300" height="140" alt="uni logos">
+<img src="images/uni.jpg?raw=true" align="middle" width="200" height="140" alt="uni logos">
 
 <b> Maharashtra University of Health Science, India </b>
 
