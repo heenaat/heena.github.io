@@ -3,23 +3,9 @@
 ---
 I have an undergraduate degree in Ayurvedic Medicine and Surgery from Maharashtra University of Health Science. I choose this field for myself cause I wanted to learn about ancient indian health science which mainly deal with the hearbs, minerals and various body cleansing procedures. While studying not only my hold of sanskrit language improved but I also gained the profound knowledge of life science and how to treat various diseases by using natural products and procedures like panchkarma, viddhakarma, yog, asana-pranayama, etc.
 
-As I have completed my BAMS from Maharashtra the curriculum also include the detailed understanding of clinical medicine, biochemical and pathological investigations and surgical procedures including emergency medicine.
+As I have completed my BAMS from Maharashtra the curriculum also include the detailed understanding of clinical medicine, biochemical and pathological investigations and surgical procedures including emergency management.
 
----
 
-## Skills
-
----
-
-**Programming:** Python, JavaScript, Git, Bash, PostgreSQL
-
-**Frameworks:** Django, Flask, FastAPI
-
-**Cloud Computing:** AWS (S3, EC2, CloudFormation, lambda)
-
-**Libraries:** NumPy, Pandas, gdal, matplotlib, SQLAlchemy
-
-**Technical Knowledge:** Web Development, Rest API's, AWS, Analytical Skills
 
 ---
 
@@ -27,15 +13,12 @@ As I have completed my BAMS from Maharashtra the curriculum also include the det
 
 ---
 
-<img src="images/uni.jpg?raw=true" align="middle" width="400" height="140" alt="uni logos">
+<img src="images/uni.jpg?raw=true" align="middle" width="300" height="140" alt="uni logos">
 
-<b> Pune University, India </b>
+<b> Maharashtra University of Health Science, India </b>
 
-B.E.  - Computer Science (Honors: First Class),			 		            May 2016
+BAMS-Bachelor of Ayurvedic medicin and Surgery (Honors: First Class),			 		           2022
 
-<b> Maharashtra State Board of Technical Education, India </b>
-
-Dip.  - Computer Science (Honors: First Class),			 		            May 2013
 
 ---
 
@@ -43,15 +26,14 @@ Dip.  - Computer Science (Honors: First Class),			 		            May 2013
 
 ---
 
-<img src="images/experience.png?raw=true" align="middle" width="700" height="120" alt="experience logos">
 
-<b> Python Developer </b> – [GeoSpoc Geospatial Services Pvt. Ltd](https://geospoc.com/), Oct 2019 – Present
+<b> Resident Doctor </b> – Shinde Hospital, Ahmednagar
 
-<b> Software Developer </b> – [Tellme Digiinfotech Pvt. Ltd (Promoted by Indiacom Pvt. Ltd.)](https://youtellme.ai/), Jul 2018 – Oct 2019
+<b> Intern Doctor </b> – Civil Hospital, Ahmednagar
 
-<b> Associate Data Analyst </b> – [Selling Simplified Pvt Ltd](https://sellingsimplified.com/), Mar 2017 – Apr 2018 
+<b> Intern Doctor </b> – G.S.Gune Ayurved College and Hospital, Ahmednagar
 
-<b> Software Developer </b> – GabZil Tech Pvt. Ltd, Jun 2016 – Nov 2016
+
 
 ---
 
