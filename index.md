@@ -1,9 +1,9 @@
 ## Bio
 
 ---
-I have done my graduation in Computer Science from Savitribai Phule Pune University. Since the start of my engineering degree studies I have been constantly learning and developing my skills to deal with flow, layout, problem definition of software, and learning New technologies which are flooding the market to develop a consumer application. I have plenty of hands on experience of the technical attributes mentioned in my resume and I have full understanding of the software development life-cycle from initial stage of requirement gathering to testing and maintenance.
+I have an undergraduate degree in Ayurvedic Medicine and Surgery from Maharashtra University of Health Science. I choose this field for myself cause I wanted to learn about ancient indian health science which mainly deal with the hearbs, minerals and various body cleansing procedures. While studying not only my hold of sanskrit language improved but I also gained the profound knowledge of life science and how to treat various diseases by using natural products and procedures like panchkarma, viddhakarma, yog, asana-pranayama, etc.
 
-I have technical expertise with experience of 4+ years includes cross-platform proficiency (Windows, Linux); fluency in scripting / programming languages (including Python, Javascript), have hands-on experience in the web development framework such as Django with HTML ,CSS, Bootstrap and also used PostgreSQL for database, worked on Django Rest Framework / Flask and GraphQL for creating REST API's, worked on pandas, numpy for data extraction and manipulation. Professional knowledge of developer applications, tools, methodologies and best practices (including OOD, client/server architecture).
+As I have completed my BAMS from Maharashtra the curriculum also include the detailed understanding of clinical medicine, biochemical and pathological investigations and surgical procedures including emergency medicine.
 
 ---
 
