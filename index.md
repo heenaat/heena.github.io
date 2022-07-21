@@ -22,7 +22,7 @@ As I have completed my BAMS from Maharashtra the curriculum also include the det
 
 <b> Maharashtra University of Health Science, India </b>
 
-BAMS-Bachelor of Ayurvedic medicin and Surgery (Honors: First Class),			 		           2022
+BAMS-Bachelor of Ayurvedic medicine and Surgery (Honors: First Class),			 		           2022
 
 ---
 
@@ -53,13 +53,13 @@ Silver Medal,                                             3rd year University Ex
 
 **Service**
 
-2017 <br/>
+2017-18 <br/>
 <i> Organized college level blood donation camp </i> 
 
-2018 <br/>
+2018-19 <br/>
 <i> Organized district level camp for awareness of panchkarma  </i>  
 
-2019 <br/>
+2019-20 <br/>
 <i> Organised vaccination camp along with suvrnaprashan sanskar for children
 
 ---
