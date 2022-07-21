@@ -2,7 +2,7 @@
 
 ---
 
-I have done my Graduation in Ayurvedic Medicine and Surgery from Maharashtra University of Health Science. I choose this field for myself cause I wanted to learn about ancient indian health science which mainly deal with the hearbs, minerals and various body cleansing procedures. While studying not only my hold of sanskrit language improved but I also gained the profound knowledge of life science and how to treat various diseases by using natural products and procedures like panchkarma, viddhakarma, yog, asana-pranayama, etc.
+I have done my Graduation in Ayurvedic Medicine and Surgery from Maharashtra University of Health Science. I choose this field for myself cause I wanted to learn about ancient indian health science which mainly deal with the hearbs, minerals and various body cleansing procedures. While studying not only my hold of sanskrit language improved but I also gained the profound knowledge of life science and how to treat various diseases by using natural products and procedures like Panchkarma, Viddhakarma, Yog, Asana-Pranayama, etc.
 
 As I have completed my BAMS from Maharashtra the curriculum also include the detailed understanding of clinical medicine, biochemical and pathological investigations and surgical procedures including emergency management.
 
