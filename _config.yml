@@ -1,7 +1,7 @@
 title: Heena Tamboli # your name (or website title) here
 # the little icon that appears in the browser window's tab
 favicon: ./favicon.ico
-logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
+logo: "./images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
   Bachelor of Ayurvedic Medicine and Surgery, MUHS
