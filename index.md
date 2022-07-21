@@ -60,14 +60,12 @@ R Bhardwaj, V Bheed, P Bhide, *W Tamboli*, A Momin, (2015). Vision of Future: Au
 
 **Awards**
 
-Department of Computer Science,  			                                        Anual Challenge, 2015 <br/>
-<i> Award for best poster among 20+ candidates </i>
+Department of Samhita,  			                                        Anual Challenge, 2017 <br/>
+<i> Award for best essey among 20+ candidates </i>
 
-Advanced Communicator Bronze,  					                                    Inter-collage Paper Presentation, 2012 <br/>
-<i> Awards for completing 10 public speaking assignments on latest topics </i>
+Gold Medal,  					                                   2nd year University Examination, 2018 <br/>
 
-Silver Medal,                                                                       Pune, 2010 <br/>
-<i> Award for Drawing Traffic Awareness Poster </i>
+Silver Medal,                                             3rd year University Examination, 2019 <br/>
 
 **Service**
 
