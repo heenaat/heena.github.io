@@ -6,9 +6,9 @@ I have done my Graduation in Ayurvedic Medicine and Surgery from Maharashtra Uni
 
 As I have completed my BAMS from Maharashtra the curriculum also include the detailed understanding of clinical medicine, biochemical and pathological investigations and surgical procedures including emergency management.
 
-**Freelance Consultant**
+**Ayurvedic Practitioner**
 
-**Ayurvedic Physician**
+**Freelance Consultant**
 
 **Philomath**
 
